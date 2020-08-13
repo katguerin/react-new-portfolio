@@ -74,7 +74,7 @@ const PhotoList = ({ category }) => {
         onClose={toggleModal} />}
 
       <div className="flex-row">
-        {currentPhotos.map((image, i) => (
+        {photos.map((image, i) => (
           <img 
           src={require(`../../assets/photos/${category}/${image.fileName}`)}
           alt={image.name}

@@ -10,7 +10,7 @@ function App() {
     {
       name: "portfolio",
       description:
-        "Photos of projects I worked on, helped with, and opossoms. Obviously.",
+        "Photos of projects I worked on, helped with, and opossums. Obviously.",
     }
   ]);
 
