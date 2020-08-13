@@ -1,5 +1,5 @@
 import React from 'react';
-import PhotoList from '../PhotoList/__tests__';
+import PhotoList from '../PhotoList';
 import { capitalizeFirstLetter } from '../../utils/helpers';
 
 function Portfolio({ currentCategory }) {

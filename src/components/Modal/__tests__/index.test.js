@@ -6,10 +6,10 @@ import Modal from "../";
 const mockToggleModal = jest.fn();
 const currentPhoto = {
   name: "Park bench",
-  category: "landscape",
+  category: "Opossum",
   description:
     "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie",
-  index: 1,
+  index: 'op1',
 };
 
 afterEach(cleanup);
